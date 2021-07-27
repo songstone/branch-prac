@@ -1,1 +1,2 @@
-print('world')
+for _ in range(10) :
+	print('world')
